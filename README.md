@@ -23,7 +23,7 @@
 
 ## 项目运行
 
-> 1. 从github上面下载项目	[github](https://github.com/)
+> 1. 从github上面下载项目	[github](https://github.com/18825607789/taopiaopiaoMobile.git)
 > 2. cd tpp   (cd 到项目根目录)
 > 3. npm install   (安装相关依赖)
 > 4. npm run dev   (运行项目)
